@@ -150,8 +150,8 @@
     0% {left: 10%;top: -10px;}
     30% {left: calc(100% - 30px); top: -10px;}
     50% {left: calc(100% - 30px); top: 90%;}
-    75% {left: 0; top: 90%;}
-    90% {left: -10px; top: -10px;}
+    80% {left: 0; top: 90%;}
+    97% {left: -10px; top: -10px;}
     100% {left: 10%; top: -10px;}
 }
 
@@ -162,8 +162,8 @@
 @keyframes revolbot {
     0% {right: 20%; bottom: -10px;}
     30% {right: calc(100% - 50px); bottom: -10px;}
-    50% {right: calc(100% - 50px); bottom: 100%;}
-    75% {right: 0; bottom: 100%;}
-    90% {right: -10px; bottom: -10px;}
+    50% {right: calc(100% - 50px); bottom: 90%;}
+    80% {right: 0; bottom: 90%;}
+    97% {right: -10px; bottom: -10px;}
     100% {right: 20%; bottom: -10px;}
 }
